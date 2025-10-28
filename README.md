@@ -5,4 +5,5 @@ Movie Explorer WebApp is a React-based movie discovery application that lets use
 ## 🎥 Demo
 
 Watch the demo video here:
+
 [▶️ Click to View Demo](https://github.com/user-attachments/assets/7ef7f42b-b735-47f4-9b68-d54d83b93091)
